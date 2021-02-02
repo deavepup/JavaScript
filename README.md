@@ -94,4 +94,4 @@ PHP, JavaScript’in aksine sunucu bazlı çalışan bir dildir. Genellikle Word
 
 CSS “Cascading Style Sheets” kısaltmasıdır ve web masterlara stil oluşturma ve farklı içerik türlerinin gösterilme şeklini ayarlama şansı tanır. Bunu HTML’de her bir öğe için manuel olarak yapabilirsiniz ancak CSS ile yaparak aynı şeyi tekrar tekrar yazmaktan kurtulur ve zamandan tasarruf sağlarsınız.
 
-[I'm Learning Javascript](https://www.notion.so/5eebcefdad444495a6d6f29192ee587e)
+
